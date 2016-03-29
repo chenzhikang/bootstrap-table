@@ -23,6 +23,7 @@
         <td>name, args</td>
         <td>
         所有的事件都会触发该事件，参数包括：<br>
+        e：事件本身<br/>
         name：事件名，<br>
         args：事件的参数。
         </td>
